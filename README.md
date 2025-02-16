@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Ebube Nwanze]  
+### Hi there! 👋 I'm Ebube Nwanze  
 
 I'm a **Frontend Developer** and **Backend Enthusiast** with a strong passion for building engaging web experiences and scalable backend systems. Currently, I'm expanding my expertise in **Next.js (TypeScript)**, **FastAPI**, and **Agile Development** while actively contributing to open-source projects and internship programs.
 
@@ -34,7 +34,7 @@ I'm a **Frontend Developer** and **Backend Enthusiast** with a strong passion fo
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poeticrow&show_icons=true&theme=tokyonight)
+ <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poeticrow&show_icons=true&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poeticrow&layout=compact&theme=tokyonight)
 
 ---
